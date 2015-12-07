@@ -16,7 +16,6 @@
 # $Id$
 
 VERSION='2.5.5-UNRELEASED'
-echo Test
 usage ()
 {
 echo "This is abcde v$VERSION."
